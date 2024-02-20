@@ -42,7 +42,7 @@
 <textarea readonly rows="5">{output}</textarea>
 
 <footer>
-	<a href="https://github.com/narze/notsume">Github</a>
+	<a href="https://github.com/narze/notsumo">Github</a>
 </footer>
 
 <style>
