@@ -1,5 +1,6 @@
 <script lang="ts">
 	const mapping = {
+		ก: 'り',
 		ข: 'ひ',
 		ค: 'の',
 		ง: 'ゝ',
